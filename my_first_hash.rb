@@ -1,4 +1,5 @@
-def my_hash = {"dog" => "Bordeaux", "nephew" => "Daniel"}
+def my_hash
+family = {"dog" => "Bordeaux", "nephew" => "Daniel"}
 end
 
 
